@@ -19,9 +19,10 @@ Destini is an iOS application that enables users to experience an interactive an
    - Developers can easily expand and modify the story by adding new storylines, choices, and outcomes, providing endless possibilities for storytelling.
 
 ## Screenshots
-<img width="1440" alt="Screenshot 2024-01-20 at 5 27 30 PM" src="https://github.com/chrohittrar/Destini-iOS-/assets/109714993/f4735f36-f080-48ec-b71f-8dbcaed5ba2f">
-<img width="1440" alt="Screenshot 2024-01-20 at 5 26 17 PM" src="https://github.com/chrohittrar/Destini-iOS-/assets/109714993/929d16d2-eaba-4791-a9c4-4d448f45ef58">
-<img width="1440" alt="Screenshot 2024-01-20 at 5 26 12 PM" src="https://github.com/chrohittrar/Destini-iOS-/assets/109714993/1157e53d-fb57-466d-9aa9-94ee3ece63e8">
+<img width="1440" alt="Screenshot 2024-01-20 at 5 26 12 PM" src="https://github.com/chrohittrar/Destini-iOS-/assets/109714993/51337d51-16ce-4924-8b20-6fe242b06b5e">
+<img width="1440" alt="Screenshot 2024-01-20 at 5 26 17 PM" src="https://github.com/chrohittrar/Destini-iOS-/assets/109714993/1d0f252f-ae40-4b1e-aa8f-9645fc397d35">
+<img width="1440" alt="Screenshot 2024-01-20 at 5 27 30 PM" src="https://github.com/chrohittrar/Destini-iOS-/assets/109714993/99f3bed2-ff08-407e-8849-68afc022044f">
+
 
 
 ## Getting Started
